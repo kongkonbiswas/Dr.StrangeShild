@@ -8,7 +8,25 @@ pip install mediapipe-silicon
 [E-mail](kongkonbiswas3241@gmail.com).
 
 ## Features
-Mediapipe
-Cv2
 
----Thank You---
+- Mediapipe
+- Cv2
+
+
+## Demo
+
+I am working on it.
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at kongkonbiswas3241@gmail.com
+
+
+## Authors
+
+- [@kongkonbiswas](https://github.com/kongkonbiswas)
+
+## License
+
+[MIT License](LICENSE)
